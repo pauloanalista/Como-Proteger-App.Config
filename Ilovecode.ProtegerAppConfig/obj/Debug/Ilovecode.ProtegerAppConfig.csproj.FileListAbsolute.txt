@@ -1,0 +1,10 @@
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\bin\Debug\Ilovecode.ProtegerAppConfig.exe.config
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\bin\Debug\Ilovecode.ProtegerAppConfig.exe
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\bin\Debug\Ilovecode.ProtegerAppConfig.pdb
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.csprojAssemblyReference.cache
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.Properties.Resources.resources
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.csproj.GenerateResource.cache
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.csproj.CoreCompileInputs.cache
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.exe
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.pdb
+C:\Users\paulo_jku944h\Downloads\Ilovecode.ProtegerAppConfig\Ilovecode.ProtegerAppConfig\obj\Debug\Ilovecode.ProtegerAppConfig.Form1.resources
